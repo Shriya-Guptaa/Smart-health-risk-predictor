@@ -27,7 +27,7 @@ I developed this project as a project at my internship, which gave me hands-on e
         Smart-Health-Risk-Predictor/
         ├── main_app.py
         ├── app/ # Core app logic
-        │ ├── init.py
+        │ ├── __init__.py
         │ ├── bmi_utils.py # BMI calculation
         │ ├── cluster_users.py # KMeans clustering
         │ ├── healthtips_knn.py # KNN for health tips
