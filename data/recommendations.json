@@ -1,0 +1,10 @@
+{
+  "glucose_high": "Your glucose level is high. Reduce sugar and consult a doctor.",
+  "glucose_prediabetes": "You are in the prediabetes range. Maintain diet and monitor sugar levels.",
+  "avg_glucose_level":"Your glucose level is average",
+  "bmi_high": "Your BMI suggests overweight. Try daily 30-minute walks and light exercise.",
+  "bmi_low": "Your BMI is low. Consider a nutrient-rich diet with healthy fats and consult a nutritionist.",
+  "has_hypertension": "Monitor blood pressure weekly and reduce salt intake.",
+  "has_heart_disease": "Schedule regular cardiologist visits and avoid saturated fats.",
+  "default": "Maintain a healthy diet and regular checkups. Great job!"
+}

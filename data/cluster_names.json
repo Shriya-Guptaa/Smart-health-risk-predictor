@@ -1,0 +1,10 @@
+{
+  "0": "Low-risk: Normal glucose, no hypertension",
+  "1": "Low-risk: Normal glucose",
+  "2": "Medium-risk: Slightly elevated glucose",
+  "3": "Low-risk: Normal glucose",
+  "4": "Low-risk: Normal glucose",
+  "5": "High-risk: Hypertension + high glucose",
+  "6": "High-risk: Very high glucose (possible diabetes)",
+  "7": "Low-risk: Normal glucose"
+}
