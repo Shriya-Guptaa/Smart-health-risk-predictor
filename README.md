@@ -58,7 +58,7 @@ I developed this project as a project at my internship, which gave me hands-on e
 
 ## ⚙️ Installation
 ### Prerequisites
-- Python 3.7 or higher  
+- Python 3.9 or higher  
 - Pip (Python package manager)
 
 ### Steps
